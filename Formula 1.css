@@ -1,0 +1,250 @@
+body{
+    background-image: url(https://tbesportes.com/hf-conteudo/uploads/posts/2023/02/772_f1-ferrari-sf23-lancamento-jpg.jpg);
+    background-repeat: 2x;
+    background-size: 100%;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.equipes{
+    background-color: red;
+    font-size: 20px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+tr, td{
+    background-color: darkgray;
+    text-align: left;
+}
+.HOL{
+    background-image: url(https://m.media-amazon.com/images/I/21WMHeDOcIL._AC_.jpg);
+    background-size: 25%;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.HONDA{
+    background-image: url(https://www.f1mania.net/wp-content/uploads/2021/01/SI202007300352_news-crop-1611339946-2000x684.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+.MEX{
+    background-image: url(https://s3.static.brasilescola.uol.com.br/be/2022/02/bandeira-do-mexico.jpg);
+    background-size: 25%;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.MARZ{
+    background-image: url(https://cdn.motor1.com/images/mgl/QeeZ89/s1/history-of-the-aston-martin-logo.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+.ESP{
+    background-image:url(https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/02/1-bandeira-da-espanha.jpg);
+    background-size: 25%;
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
+.MERCEDES{
+    background-image: url(https://d2hucwwplm5rxi.cloudfront.net/wp-content/uploads/2022/08/22085423/logo-meaning-mercedes-benz-_-Cover-12-8-22.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+
+}
+.CAN{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1200px-Flag_of_Canada_%28Pantone%29.svg.png);
+    background-size: 25%;
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
+.GBR{
+    background-image: url(https://www.bandeirasnacionais.com/data/flags/big/gb.png);
+    background-size: 25%;
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
+.FERRARI{
+    background-image: url(https://images1.autocasion.com/actualidad/wp-content/uploads/2015/12/Qu%C3%A9-significa-el-Logo-de-Ferrari--300x200.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+.MON{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/213px-Flag_of_Monaco.svg.png);
+    background-size: 25%;
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
+.MCLAREN{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqsDu8Cl1uOhJm_6LfDQrXRoV3c45NAnrByljwIWGWu_ljqwPC1ckXzIQsoF1Rj5WfdRA&usqp=CAU);
+    background-size: 100%;
+    background-repeat: no-repeat
+
+}
+.AUS{
+    background-image: url(https://s3.static.brasilescola.uol.com.br/be/2022/01/bandeira-da-australia.jpg);
+    background-size: 25%;
+    background-position: right;
+    background-repeat: no-repeat;
+ 
+}
+.ALE{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/255px-Flag_of_Germany.svg.png);
+    background-size: 25%;
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
+.DIN{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/225px-Flag_of_Denmark.svg.png);
+    background-size: 25%;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.HAAS{
+    background-image: url(https://logodownload.org/wp-content/uploads/2022/03/haas-f1-team-logo.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+.FIN{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/255px-Flag_of_Finland.svg.png);
+    background-size: 25%;
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
+.ROMEO{
+    background-image: url(https://d2hucwwplm5rxi.cloudfront.net/wp-content/uploads/2022/09/09115519/Alfa-Romeo-Logo-Meaning-and-History-_-Cover-9-9-22.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+.CHN{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/255px-Flag_of_the_People%27s_Republic_of_China.svg.png);
+    background-size: 25%;
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
+.FRA{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/255px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png);
+    background-size: 25%;
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
+.RENA{
+    background-image: url(https://i.ebayimg.com/thumbs/images/g/xu0AAOSwt4xab0CS/s-l300.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+.JPN{
+    background-image: url(https://s4.static.brasilescola.uol.com.br/be/2022/11/bandeira-do-japao.jpg);
+    background-size: 25%;
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
+.ALPHA{
+    background-image: url(https://www.f1mania.net/wp-content/uploads/2020/07/0001036013_HiRes_0O08PA809PV5OH0GL6WHT042OI9T-crop-1642013349-2000x684.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+.TAI{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/255px-Flag_of_the_Republic_of_China.svg.png);
+    background-size: 25%;
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
+.WILLI{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-lDxgzJgkaEc6rkFEN7ubV2sy4dWQflk8aHkxaHX0zRbSlBoE9kN-NGlIefaYxL1eg&usqp=CAU);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.EUA{
+    background-image: url(https://s3.static.brasilescola.uol.com.br/be/conteudo/images/estados-unidos.jpg);
+    background-size: 25%;
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
+.FINAL{
+    background-color: red;
+    font-size: 20px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.RBR2{
+    background-image: url(https://www.f1mania.net/wp-content/uploads/2021/01/SI202007300352_news-crop-1611339946-2000x684.jpg);
+    background-size: 20%;
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
+.MARZ2{
+    background-image: url(https://cdn.motor1.com/images/mgl/QeeZ89/s1/history-of-the-aston-martin-logo.jpg);
+    background-size: 20%;
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
+.MERCEDES2{
+    background-image: url(https://d2hucwwplm5rxi.cloudfront.net/wp-content/uploads/2022/08/22085423/logo-meaning-mercedes-benz-_-Cover-12-8-22.jpg);
+    background-size: 20%;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.FERRARI2{
+    background-image: url(https://images1.autocasion.com/actualidad/wp-content/uploads/2015/12/Qu%C3%A9-significa-el-Logo-de-Ferrari--300x200.jpg);
+    background-size: 20%;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.MCLAREN2{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqsDu8Cl1uOhJm_6LfDQrXRoV3c45NAnrByljwIWGWu_ljqwPC1ckXzIQsoF1Rj5WfdRA&usqp=CAU);
+    background-size: 20%;
+    background-position: right;
+    background-repeat: no-repeat
+}
+.RENA2{
+    background-image: url(https://i.ebayimg.com/thumbs/images/g/xu0AAOSwt4xab0CS/s-l300.jpg);
+    background-size: 20%;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.HAAS2{
+    background-image: url(https://logodownload.org/wp-content/uploads/2022/03/haas-f1-team-logo.png);
+    background-size: 20%;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.ROMEO2{
+    background-image: url(https://d2hucwwplm5rxi.cloudfront.net/wp-content/uploads/2022/09/09115519/Alfa-Romeo-Logo-Meaning-and-History-_-Cover-9-9-22.jpg);
+    background-size: 20%;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.ALPHA2{
+    background-image: url(https://www.f1mania.net/wp-content/uploads/2020/07/0001036013_HiRes_0O08PA809PV5OH0GL6WHT042OI9T-crop-1642013349-2000x684.jpg);
+    background-size: 20%;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.WILLI2{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-lDxgzJgkaEc6rkFEN7ubV2sy4dWQflk8aHkxaHX0zRbSlBoE9kN-NGlIefaYxL1eg&usqp=CAU);
+    background-size: 20%;
+    background-position: right;
+    background-repeat: no-repeat;
+}
